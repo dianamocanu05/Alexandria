@@ -1,6 +1,6 @@
 package com.example.alexandriaapi.enums;
 
-public enum Categories {
+public enum ALL_CATEGS {
     POETRY,
     PSYCHOLOGY,
     SOCIETY,
